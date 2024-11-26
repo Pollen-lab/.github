@@ -2,3 +2,5 @@ Welcome to the open source software repositories developed by members of Alex Po
 
 Note that repositories shown on this page are forked from the personal Github page of the lab member who is the main developer, so please post issues and submit pull requests on the original repository page.
 
+Image credit: Dani Swope
+
